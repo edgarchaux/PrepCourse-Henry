@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Módulo 2 Henry con readme
+Este es un proyecto prueba de como crear un repositorio y clonarlo desde github a mi computadora
